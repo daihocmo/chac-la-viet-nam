@@ -1,2 +1,1 @@
-# chac-la-viet-nam
-Rất nhiều thứ về Việt Nam! 
+Đây là một trang về rất nhiều nội dung Tiếng Việt
